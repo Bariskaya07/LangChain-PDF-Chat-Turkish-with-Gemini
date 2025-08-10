@@ -36,8 +36,8 @@ Bu proje, PDF dosyalarını yükleyip içeriği hakkında Türkçe sohbet edebil
 
 1. **Repository'yi klonlayın:**
 ```bash
-git clone https://github.com/kullaniciadi/pdf-chat-gemini.git
-cd pdf-chat-gemini
+git clone https://github.com/Bariskaya07/PDF-Chat-Turkish-with-Gemini-2.5-Flash.git
+cd PDF-Chat-Turkish-with-Gemini-2.5-Flash
 ```
 
 2. **Virtual environment oluşturun:**
