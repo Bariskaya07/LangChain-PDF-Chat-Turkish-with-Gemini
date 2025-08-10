@@ -2,6 +2,8 @@
 
 Bu proje, PDF dosyalarını yükleyip içeriği hakkında Türkçe sohbet edebileceğiniz bir Streamlit uygulamasıdır. Google Gemini 2.5 Flash ve Google embeddings kullanılarak geliştirilmiştir.
 
+[![PDF Chat Uygulaması Demo](https://youtu.be/PdUrK19CTjY?si=BWTCAryKXYCIfWQl)]
+
 ## Özellikler
 
 - **PDF Yükleme**: PDF dosyalarınızı kolayca yükleyin
