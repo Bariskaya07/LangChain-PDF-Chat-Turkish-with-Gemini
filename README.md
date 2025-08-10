@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/9530fb57-7d27-4fa7-85f2-07c478c584f2
 
 ---
 
-Bu proje, PDF dosyalarını yükleyip içeriği hakkında Türkçe sohbet edebileceğiniz bir Streamlit uygulamasıdır. Google Gemini 2.5 Flash ve Google embeddings kullanılarak geliştirilmiştir.
+Bu proje, PDF dosyalarını yükleyip içeriği hakkında Türkçe sohbet edebileceğiniz bir Streamlit uygulamasıdır. Google Gemini 2.5 Flash, Langchain kütüphanesi ve Google embeddings kullanılarak geliştirilmiştir.
 
 ##  Özellikler
 
