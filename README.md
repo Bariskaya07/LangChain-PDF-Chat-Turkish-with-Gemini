@@ -2,7 +2,7 @@
 
 Bu proje, PDF dosyalarını yükleyip içeriği hakkında Türkçe sohbet edebileceğiniz bir Streamlit uygulamasıdır. Google Gemini 2.5 Flash ve Google embeddings kullanılarak geliştirilmiştir.
 
-## 🚀 Özellikler
+## Özellikler
 
 - **PDF Yükleme**: PDF dosyalarınızı kolayca yükleyin
 - **Türkçe Sohbet**: PDF içeriği hakkında Türkçe sorular sorun
@@ -11,12 +11,12 @@ Bu proje, PDF dosyalarını yükleyip içeriği hakkında Türkçe sohbet edebil
 - **Google Gemini 2.5 Flash**: En son AI teknolojisi
 - **Vektör Veritabanı**: ChromaDB ile hızlı arama
 
-## 📋 Gereksinimler
+## Gereksinimler
 
 - Python 3.8+
 - Google AI Studio API Key ([buradan alın](https://aistudio.google.com/apikey))
 
-## 🛠️ Kurulum
+## Kurulum
 
 1. **Repository'yi klonlayın:**
 ```bash
@@ -42,14 +42,14 @@ pip install -r requirements.txt
 streamlit run chat_pdf_google.py
 ```
 
-## 📖 Kullanım
+## Kullanım
 
 1. **API Key Girişi**: Google AI Studio'dan aldığınız API key'i girin
 2. **PDF Yükleme**: PDF dosyanızı sürükle-bırak ile yükleyin
 3. **Sohbet**: PDF hakkında Türkçe sorular sorun
 4. **Tam Özet**: "📄 PDF'in Tam Özetini Çıkar" butonuna tıklayın
 
-## 🔧 Teknik Detaylar
+## Teknik Detaylar
 
 - **AI Modeli**: Google Gemini 2.5 Flash
 - **Embedding**: Google Embedding Model (models/embedding-001)
@@ -57,7 +57,7 @@ streamlit run chat_pdf_google.py
 - **Text Splitter**: RecursiveCharacterTextSplitter (2000 chunk, 400 overlap)
 - **Framework**: Streamlit + LangChain
 
-## 📁 Proje Yapısı
+## Proje Yapısı
 
 ```
 pdf-chat-gemini/
@@ -68,7 +68,7 @@ pdf-chat-gemini/
 └── pdf_chat_env/          # Virtual environment
 ```
 
-## 🎯 Öne Çıkan Fonksiyonlar
+## Öne Çıkan Fonksiyonlar
 
 ### Kapsamlı PDF Analizi
 - Büyük chunk boyutu (2000 karakter)
@@ -80,13 +80,13 @@ pdf-chat-gemini/
 - Türkçe cevap formatı
 - Kültürel bağlama uygun yanıtlar
 
-## 🔒 Güvenlik
+## Güvenlik
 
 - API key'ler güvenli şekilde saklanır
 - Geçici dosyalar otomatik temizlenir
 - Kullanıcı verileri yerel olarak işlenir
 
-## 🤝 Katkıda Bulunma
+## Katkıda Bulunma
 
 1. Fork yapın
 2. Feature branch oluşturun (`git checkout -b yeni-ozellik`)
@@ -98,14 +98,14 @@ pdf-chat-gemini/
 
 Bu proje MIT lisansı altında lisanslanmıştır.
 
-## 🆘 Destek
+## Destek
 
 Sorun yaşıyorsanız:
 - Issues bölümünde sorun bildirin
 - Detaylı hata mesajları paylaşın
 - Kullandığınız Python versiyonunu belirtin
 
-## 📊 Sistem Gereksinimleri
+## Sistem Gereksinimleri
 
 - **RAM**: Minimum 4GB (8GB önerilir)
 - **Disk**: 500MB boş alan
@@ -113,4 +113,4 @@ Sorun yaşıyorsanız:
 
 ---
 
-⭐ **Projeyi beğendiyseniz yıldız vermeyi unutmayın!**
+**Projeyi beğendiyseniz yıldız verebilirsiniz.**
