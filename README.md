@@ -1,8 +1,11 @@
 # PDF Chat Uygulaması - Google Gemini 2.5 Flash
 
-## 🎥 Demo Video
 
-[![PDF Chat Uygulaması Demo](https://img.youtube.com/vi/PdUrK19CTjY/0.jpg)](https://www.youtube.com/watch?v=PdUrK19CTjY)
+
+https://github.com/user-attachments/assets/9530fb57-7d27-4fa7-85f2-07c478c584f2
+
+
+
 
 
 ** Video'da görecekleriniz:**
@@ -29,7 +32,7 @@ Bu proje, PDF dosyalarını yükleyip içeriği hakkında Türkçe sohbet edebil
 - Python 3.8+
 - Google AI Studio API Key ([buradan alın](https://aistudio.google.com/apikey))
 
-## 🛠 Kurulum
+## Kurulum
 
 1. **Repository'yi klonlayın:**
 ```bash
