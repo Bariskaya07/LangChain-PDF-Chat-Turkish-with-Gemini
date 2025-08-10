@@ -36,8 +36,8 @@ Bu proje, PDF dosyalarını yükleyip içeriği hakkında Türkçe sohbet edebil
 
 1. **Repository'yi klonlayın:**
 ```bash
-git clone https://github.com/Bariskaya07/LangChain-PDF-Chat-Turkish-with-Gemini.git
-cd LangChain-PDF-Chat-Turkish-with-Gemini
+git clone https://github.com/Bariskaya07/LangChain-RAG-PDF-Chat-Turkish.git
+cd LangChain-RAG-PDF-Chat-Turkish
 ```
 
 2. **Virtual environment oluşturun:**
