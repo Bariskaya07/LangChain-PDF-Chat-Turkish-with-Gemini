@@ -9,10 +9,10 @@ https://github.com/user-attachments/assets/9530fb57-7d27-4fa7-85f2-07c478c584f2
 
 
 ** Video'da görecekleriniz:**
-- ✅ PDF yükleme ve analiz
-- ✅ Türkçe soru-cevap örnekleri  
-- ✅ Tam özet çıkarma
-- ✅ Gemini 2.5 Flash performansı
+-  PDF yükleme ve analiz
+-  Türkçe soru-cevap örnekleri  
+-  Tam özet çıkarma
+-  Gemini 2.5 Flash performansı
 
 ---
 
